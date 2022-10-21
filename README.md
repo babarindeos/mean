@@ -1,2 +1,2 @@
 # mean
-mongodb-express-angular-nodejs
+Mongodb Express Angular Nodejs
